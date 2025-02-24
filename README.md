@@ -1,2 +1,2 @@
-# -clinic_management_tool
+# clinic_management_tool
 Code You  Bootscamp Capstone
